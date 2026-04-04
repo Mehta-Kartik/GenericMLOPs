@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: ML-Project
+Version: 0.0.1
+Author: Kartik Mehta
+Author-email: kpmehta7806@gmail.com
+Requires-Dist: setuptools
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
