@@ -1,0 +1,11 @@
+[2026-04-06 11:30:50,020] 29 root - INFO - Entered the Data Ingestion component
+[2026-04-06 11:30:50,030] 32 root - INFO - Read the dataset as a dataframe
+[2026-04-06 11:30:50,040] 38 root - INFO - We saved our actual data to raw.csv
+[2026-04-06 11:30:50,055] 45 root - INFO - Divided raw dataset to train and test dataset
+[2026-04-06 11:30:50,060] 74 root - INFO - We have loaded the train and test dataset
+[2026-04-06 11:30:50,060] 76 root - INFO - Now lets get that object we used for preprocessing
+[2026-04-06 11:30:50,060] 53 root - INFO - Numerical columns standard scaling completed
+[2026-04-06 11:30:50,060] 55 root - INFO - Categorical columns encoding completed
+[2026-04-06 11:30:50,060] 86 root - INFO - Applying preprocessing object on training dataframe and testing dataframe
+[2026-04-06 11:30:50,090] 95 root - INFO - Saving preprocessed objects.
+[2026-04-06 11:30:50,095] 30 root - INFO - Model Training Part initiated

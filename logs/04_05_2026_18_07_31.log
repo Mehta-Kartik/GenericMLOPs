@@ -1,0 +1,4 @@
+[2026-04-05 18:07:32,687] 25 root - INFO - Entered the Data Ingestion component
+[2026-04-05 18:07:32,702] 28 root - INFO - Read the dataset as a dataframe
+[2026-04-05 18:07:32,742] 34 root - INFO - We saved our actual data to raw.csv
+[2026-04-05 18:07:32,757] 41 root - INFO - Divided raw dataset to train and test dataset
