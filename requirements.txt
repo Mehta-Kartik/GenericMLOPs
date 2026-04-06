@@ -4,6 +4,7 @@ pandas
 seaborn
 matplotlib
 scikit-learn
+flask
 catboost
 xgboost
 dill
